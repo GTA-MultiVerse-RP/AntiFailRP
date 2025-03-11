@@ -3,8 +3,8 @@ Config = {}
 
 -- Speed Limiter --
 Config.speedlimiter = true -- Set to false to disable the speed limiter
-Config.speedlimit = 150 -- What should the speed limit be? (MPH)
-Config.emergencyclassSpeedlimit = 200 -- What should the speed limit be for the emergency class? (MPH)
+Config.speedlimit = 250 -- What should the speed limit be? (MPH)
+Config.emergencyclassSpeedlimit = 270 -- What should the speed limit be for the emergency class? (MPH)
 
 
 -- Anti VDM --
